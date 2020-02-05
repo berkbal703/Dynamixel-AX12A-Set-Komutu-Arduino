@@ -1,7 +1,7 @@
 # Dynamixel-AX12A-Set-Komutu-Arduino
 Bu paylaşılan kodlar Arduino üzerinde sadece library kullanarak dynamixel sürmenize yarayan kodlardır. Devamı ve yardım için Instagram: @robotikyazilim
 
-----------------Turkish------------------
+----------------Turkish------------------ (The English section is at the bottom.)
 # Dynamixel AX-12A Robot Actuator
 
 [![Datasheet](https://static.generation-robots.com/3053/dynamixel-ax-12a-servomotor.jpg)](http://www.trossenrobotics.com/images/productdownloads/AX-12(English).pdf)
